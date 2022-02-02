@@ -1,4 +1,4 @@
-### Hi there 👋
+### print("Hello World!");
 
 - 🔭 I’m currently working on rounding up my internship to go back to school!
 - 🌱 I’m currently learning how to write a good documentation.
